@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BinarySearch.vcxproj", "{B42AF51E-D1B6-4919-A2E5-7047C8A9494F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42AF51E-D1B6-4919-A2E5-7047C8A9494F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B42AF51E-D1B6-4919-A2E5-7047C8A9494F}.Debug|Win32.Build.0 = Debug|Win32
+		{B42AF51E-D1B6-4919-A2E5-7047C8A9494F}.Release|Win32.ActiveCfg = Release|Win32
+		{B42AF51E-D1B6-4919-A2E5-7047C8A9494F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
